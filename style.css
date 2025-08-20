@@ -21,6 +21,8 @@ body{
     width: 50%;
     max-width: 40vw;
     box-shadow: 2px 2px 4px;
+    justify-content: center;
+
 }
 /* 
 .container:hover{
@@ -89,5 +91,6 @@ color: white;
     justify-content: space-evenly;
     gap: 10px;
     flex-wrap: wrap; 
+
 
 }
